@@ -24,7 +24,7 @@ public class CalculatorTest {
 		double result = calc.perform(Operation.add);
 
 		//verify
-		assertEquals(5, result, 0);
+		assertEquals(6, result, 0);
 		
 
 	}
